@@ -1,0 +1,16 @@
+/Users/g_red/Projects/Fourth_try/Fourth_try/obj/Debug/netstandard2.0/Fourth_try.csproj.AssemblyReference.cache
+/Users/g_red/Projects/Fourth_try/Fourth_try/obj/Debug/netstandard2.0/Fourth_try.GeneratedMSBuildEditorConfig.editorconfig
+/Users/g_red/Projects/Fourth_try/Fourth_try/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/g_red/Projects/Fourth_try/Fourth_try/obj/Debug/netstandard2.0/WelcomePage.xaml.g.cs
+/Users/g_red/Projects/Fourth_try/Fourth_try/obj/Debug/netstandard2.0/Fourth_try.AssemblyInfoInputs.cache
+/Users/g_red/Projects/Fourth_try/Fourth_try/obj/Debug/netstandard2.0/Fourth_try.AssemblyInfo.cs
+/Users/g_red/Projects/Fourth_try/Fourth_try/obj/Debug/netstandard2.0/Fourth_try.csproj.CoreCompileInputs.cache
+/Users/g_red/Projects/Fourth_try/Fourth_try/obj/Debug/netstandard2.0/Fourth_try.dll
+/Users/g_red/Projects/Fourth_try/Fourth_try/obj/Debug/netstandard2.0/ref/Fourth_try.dll
+/Users/g_red/Projects/Fourth_try/Fourth_try/obj/Debug/netstandard2.0/Fourth_try.pdb
+/Users/g_red/Projects/Fourth_try/Fourth_try/bin/Debug/netstandard2.0/Fourth_try.deps.json
+/Users/g_red/Projects/Fourth_try/Fourth_try/bin/Debug/netstandard2.0/Fourth_try.dll
+/Users/g_red/Projects/Fourth_try/Fourth_try/bin/Debug/netstandard2.0/ref/Fourth_try.dll
+/Users/g_red/Projects/Fourth_try/Fourth_try/bin/Debug/netstandard2.0/Fourth_try.pdb
+/Users/g_red/Projects/Fourth_try/Fourth_try/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/g_red/Projects/Fourth_try/Fourth_try/obj/Debug/netstandard2.0/Page2.xaml.g.cs

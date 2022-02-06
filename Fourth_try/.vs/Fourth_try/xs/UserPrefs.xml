@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{859D33A1-D4C3-4272-BF93-00E868663282}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fourth__try.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fourth_try/App.xaml">
+    <Files>
+      <File FileName="Fourth_try/App.xaml.cs" Line="23" Column="1" />
+      <File FileName="Fourth_try/App.xaml" Line="6" Column="1" />
+      <File FileName="Fourth_try/WelcomePage.xaml" />
+      <File FileName="Fourth_try/WelcomePage.xaml.cs" />
+      <File FileName="Fourth_try/Page2.xaml" />
+      <File FileName="Fourth_try/Page2.xaml.cs" />
+      <File FileName="Fourth_try/AssemblyInfo.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fourth_try" expanded="True" selected="True">
+            <Node name="Fourth_try" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="Page2.xaml" expanded="True" />
+              <Node name="WelcomePage.xaml" expanded="True" />
+            </Node>
+            <Node name="Fourth_try.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Fourth_try.Page2">
+
+    <ContentPage.Content>
+        <StackLayout>
+        <TableView Intent="Settings">
+            <TableRoot>
+                <TableSection Title="Storage" TextColor="Blue">
+                    <EntryCell Label="Customer_ID" Placeholder="ex: 7123"/>
+                    <EntryCell Label="Product_ID" Placeholder="ex:3147"/>
+
+
+                   
+                </TableSection>
+            </TableRoot>
+        </TableView>
+            <Button Text="Registration"
+                    Margin="10"
+                    Clicked="Registerd">
+
+
+            </Button>
+            
+
+
+        </StackLayout>
+
+        
+        
+        
+    </ContentPage.Content>
+</ContentPage>

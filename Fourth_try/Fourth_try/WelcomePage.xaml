@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Fourth_try.WelcomePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome page"
+                   FontSize="40"
+                   FontFamily="">
+            </Label>
+            <Button Text="Click to Navigate"
+                    Clicked="Navi"
+                    FontSize="20">
+
+            </Button>
+            
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>
